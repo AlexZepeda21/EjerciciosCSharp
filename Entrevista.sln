@@ -29,7 +29,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Nivel2", "Nivel2", "{88F801
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej1ProductosLinq", "Ej1ProductosLinq\Ej1ProductosLinq.csproj", "{2CCECD2E-069A-40C0-88FF-0F63CAAA7776}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej2BubbleSectionInsertionSort", "Ej2BubbleSectionInsertionSort\Ej2BubbleSectionInsertionSort.csproj", "{3AE80F01-550A-4200-AFBB-72383A362997}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej2BubbleSelectionInsertionSort", "Ej2BubbleSelectionInsertionSort\Ej2BubbleSelectionInsertionSort.csproj", "{1AFB014A-70E7-49A1-89FE-614C89130CC3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -77,10 +77,10 @@ Global
 		{2CCECD2E-069A-40C0-88FF-0F63CAAA7776}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2CCECD2E-069A-40C0-88FF-0F63CAAA7776}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2CCECD2E-069A-40C0-88FF-0F63CAAA7776}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3AE80F01-550A-4200-AFBB-72383A362997}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3AE80F01-550A-4200-AFBB-72383A362997}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3AE80F01-550A-4200-AFBB-72383A362997}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3AE80F01-550A-4200-AFBB-72383A362997}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AFB014A-70E7-49A1-89FE-614C89130CC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AFB014A-70E7-49A1-89FE-614C89130CC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AFB014A-70E7-49A1-89FE-614C89130CC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AFB014A-70E7-49A1-89FE-614C89130CC3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -98,7 +98,7 @@ Global
 		{252150E0-DA81-4850-8B60-2EE826F4338C} = {3A18F4F0-9B74-416B-9469-4B87798CB2B6}
 		{88F80163-DBC9-492D-BBB9-4CE781C3D776} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{2CCECD2E-069A-40C0-88FF-0F63CAAA7776} = {88F80163-DBC9-492D-BBB9-4CE781C3D776}
-		{3AE80F01-550A-4200-AFBB-72383A362997} = {88F80163-DBC9-492D-BBB9-4CE781C3D776}
+		{1AFB014A-70E7-49A1-89FE-614C89130CC3} = {88F80163-DBC9-492D-BBB9-4CE781C3D776}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BAEB1157-911E-492A-BB0D-1C76AEA5F5CE}
