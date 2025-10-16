@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej1ProductosLinq", "Ej1Prod
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej2BubbleSelectionInsertionSort", "Ej2BubbleSelectionInsertionSort\Ej2BubbleSelectionInsertionSort.csproj", "{1AFB014A-70E7-49A1-89FE-614C89130CC3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eje10", "Eje10\Eje10.csproj", "{4DC907F1-3235-4FE7-92F3-3ED5D8A27FA3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{1AFB014A-70E7-49A1-89FE-614C89130CC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1AFB014A-70E7-49A1-89FE-614C89130CC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1AFB014A-70E7-49A1-89FE-614C89130CC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DC907F1-3235-4FE7-92F3-3ED5D8A27FA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DC907F1-3235-4FE7-92F3-3ED5D8A27FA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DC907F1-3235-4FE7-92F3-3ED5D8A27FA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DC907F1-3235-4FE7-92F3-3ED5D8A27FA3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -99,6 +105,7 @@ Global
 		{88F80163-DBC9-492D-BBB9-4CE781C3D776} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{2CCECD2E-069A-40C0-88FF-0F63CAAA7776} = {88F80163-DBC9-492D-BBB9-4CE781C3D776}
 		{1AFB014A-70E7-49A1-89FE-614C89130CC3} = {88F80163-DBC9-492D-BBB9-4CE781C3D776}
+		{4DC907F1-3235-4FE7-92F3-3ED5D8A27FA3} = {3A18F4F0-9B74-416B-9469-4B87798CB2B6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BAEB1157-911E-492A-BB0D-1C76AEA5F5CE}
